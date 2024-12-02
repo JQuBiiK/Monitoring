@@ -1,0 +1,11 @@
+.status-awaiting {
+    background-color: yellow !important;
+}
+.status-in-transit {
+    background-color: blue !important;
+    color: white;
+}
+.status-delivered {
+    background-color: green !important;
+    color: white;
+}
